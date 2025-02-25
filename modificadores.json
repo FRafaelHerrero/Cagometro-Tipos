@@ -1,57 +1,57 @@
 [
-  {
-    name:"Beso de Poseidón",
-    symbol:"🐳",
-    description:""
-  },
-  {
-    name:"Conejo",
-    symbol:"🐇",
-    description:""
-  },
-  {
-    name:"Freixenet",
-    symbol:"🍾",
-    description:""
-  },
-  {
-    name:"Perfect",
-    symbol:"✅",
-    description:""
-  },
-  {
-    name:"Doble Perfect",
-    symbol:"☑",
-    description:""
-  },
-  {
-    name:"Medalla",
-    symbol:"🪙",
-    description:""
-  },
-  {
-    name:"Con Publico",
-    symbol:"👀",
-    description:""
-  },
-  {
-    name:"Interrumpida",
-    symbol:"🫥",
-    description:""
-  },
-  {
-    name:"Sangrienta",
-    symbol:"🩸",
-    description:""
-  },
-  {
-    name:"Picante",
-    symbol:"🌶",
-    description:""
-  },
-  {
-    name:"Exceso de Hierro",
-    symbol:"🫘",
-    description:""
-  },
+    {
+      "name":"Beso de Poseidón",
+      "symbol":"🐳",
+      "description":""
+    },
+    {
+      "name":"Conejo",
+      "symbol":"🐇",
+      "description":""
+    },
+    {
+      "name":"Freixenet",
+      "symbol":"🍾",
+      "description":""
+    },
+    {
+      "name":"Perfect",
+      "symbol":"✅",
+      "description":""
+    },
+    {
+      "name":"Doble Perfect",
+      "symbol":"☑",
+      "description":""
+    },
+    {
+      "name":"Medalla",
+      "symbol":"🪙",
+      "description":""
+    },
+    {
+      "name":"Con Publico",
+      "symbol":"👀",
+      "description":""
+    },
+    {
+      "name":"Interrumpida",
+      "symbol":"🫥",
+      "description":""
+    },
+    {
+      "name":"Sangrienta",
+      "symbol":"🩸",
+      "description":""
+    },
+    {
+      "name":"Picante",
+      "symbol":"🌶",
+      "description":""
+    },
+    {
+      "name":"Exceso de Hierro",
+      "symbol":"🫘",
+      "description":""
+    }
 ]
