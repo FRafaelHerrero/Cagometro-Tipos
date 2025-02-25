@@ -1,0 +1,27 @@
+[
+  {
+    name: "Buena",
+    symbol: "🟢",
+    description: ""
+  },
+  {
+    name: "Roja",
+    symbol: "🔴",
+    description: ""
+  },
+  {
+    name: "Estreñida",
+    symbol: "🟡",
+    description: ""
+  },
+  {
+    name: "Pecho",
+    symbol: "🔵",
+    description: ""
+  },
+  {
+    name: "Desintegración",
+    symbol: "⚫",
+    description: ""
+  },
+]
