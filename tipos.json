@@ -1,5 +1,10 @@
 [
   {
+    "name":"Totales",
+    "definingString":"💩",
+    "description":"Totales"
+  },
+  {
     "name": "Buena",
     "symbol": "🟢",
     "description": ""
